@@ -888,21 +888,28 @@ const Products: React.FC = () => {
                   </div>
 
                   {/* Actions */}
-                  <div className="flex gap-3">
-                    <button
-                      onClick={() => { setQuoteProduct(selectedProduct); setShowQuoteModal(true); setSelectedProduct(null); }}
-                      disabled={!selectedProduct.inStock}
-                      className="flex-1 px-6 py-3 bg-gradient-to-r from-[#ff6b6b] to-[#ff8e8e] text-white rounded-xl font-semibold hover:shadow-lg disabled:opacity-50 transition-all"
-                    >
-                      Request Quote
-                  <button
-  onClick={() => window.open("https://www.ujutreer.com", "_blank")}
-  className="px-6 py-3 border-2 border-[#00a8a8] text-[#00a8a8] rounded-xl font-semibold hover:bg-[#00a8a8] hover:text-white transition-all flex items-center"
->
-  <DownloadIcon />
-  <span className="ml-2">Brochure</span>
-</button>
-                  </div>
+                <div className="flex gap-3">
+  <button
+    onClick={() => {
+      setQuoteProduct(selectedProduct);
+      setShowQuoteModal(true);
+      setSelectedProduct(null);
+    }}
+    disabled={!selectedProduct.inStock}
+    className="flex-1 px-6 py-3 bg-gradient-to-r from-[#ff6b6b] to-[#ff8e8e] text-white rounded-xl font-semibold hover:shadow-lg disabled:opacity-50 transition-all"
+  >
+    Request Quote
+  </button>
+
+  <button
+    onClick={() => window.open("https://www.ujutreer.com", "_blank")}
+    className="px-6 py-3 border-2 border-[#00a8a8] text-[#00a8a8] rounded-xl font-semibold hover:bg-[#00a8a8] hover:text-white transition-all flex items-center"
+  >
+    <DownloadIcon />
+    <span className="ml-2">Brochure</span>
+  </button>
+</div>
+
                 </div>
               </div>
 
