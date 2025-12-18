@@ -351,14 +351,14 @@ const AppLayout: React.FC = () => {
       {/* Hero Section */}
       <section id="home" className="relative min-h-screen flex items-center pt-20">
         <div className="absolute inset-0">
-          <img src={IMAGES.hero} alt="AI Healthcare Technology" className="w-full h-full object-cover" />
+          <img src={IMAGES.hero} alt="EquinoxHealthTech Technology" className="w-full h-full object-cover" />
           <div className="absolute inset-0 bg-gradient-to-r from-[#1a2332]/95 via-[#1a2332]/80 to-[#1a2332]/60"></div>
         </div>
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
           <div className="max-w-3xl">
             <div className="inline-flex items-center px-4 py-2 bg-[#00a8a8]/20 rounded-full mb-6">
               <span className="w-2 h-2 bg-[#00a8a8] rounded-full mr-2 animate-pulse"></span>
-              <span className="text-[#00a8a8] text-sm font-medium">Leading AI Healthcare Innovation</span>
+              <span className="text-[#00a8a8] text-sm font-medium">Leading EquinoxHealthTech Innovation</span>
             </div>
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white leading-tight mb-6">
               Transforming Healthcare Through{' '}
@@ -857,7 +857,7 @@ const AppLayout: React.FC = () => {
       {/* Newsletter Section */}
       <section className="py-16 bg-[#00a8a8]">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h3 className="text-2xl sm:text-3xl font-bold text-white mb-4">Stay Updated with AI Healthcare Innovations</h3>
+          <h3 className="text-2xl sm:text-3xl font-bold text-white mb-4">Stay Updated with EquinoxHealthTech Innovations</h3>
           <p className="text-white/80 mb-8">
             Subscribe to our newsletter for the latest product updates, industry insights, and partnership opportunities.
           </p>
