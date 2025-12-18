@@ -367,7 +367,7 @@ const AppLayout: React.FC = () => {
               </span>
             </h1>
             <p className="text-lg sm:text-xl text-gray-300 mb-8 leading-relaxed">
-              AI HealthTech Solutions bridges the gap between cutting-edge technology and practical healthcare delivery, 
+              EquinoxHealthTech Solutions bridges the gap between cutting-edge technology and practical healthcare delivery, 
               making intelligent equipment accessible to every sector that values precision, efficiency, and care.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
@@ -521,7 +521,7 @@ const AppLayout: React.FC = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
             <span className="text-[#00a8a8] font-semibold text-sm uppercase tracking-wider">Our Advantages</span>
-            <h2 className="text-3xl sm:text-4xl font-bold text-white mt-2 mb-4">Why Choose AI HealthTech Solutions</h2>
+            <h2 className="text-3xl sm:text-4xl font-bold text-white mt-2 mb-4">Why Choose EquinoxHealthTech Solutions</h2>
             <p className="text-gray-400 max-w-2xl mx-auto">
               We combine global expertise with local support to deliver exceptional value to our partners.
             </p>
@@ -552,7 +552,7 @@ const AppLayout: React.FC = () => {
               <span className="text-[#00a8a8] font-semibold text-sm uppercase tracking-wider">About Us</span>
               <h2 className="text-3xl sm:text-4xl font-bold text-[#1a2332] mt-2 mb-6">Company Overview</h2>
               <p className="text-gray-600 mb-6 leading-relaxed">
-                AI HealthTech Solutions Inc. is a U.S.-based importer and distributor of advanced AI-powered healthcare equipment. 
+                EquinoxHealthTech Solutions Inc. is a U.S.-based importer and distributor of advanced AI-powered healthcare equipment. 
                 We specialize in sourcing innovative systems that enhance diagnostics, treatment, and wellness across multiple industries.
               </p>
               
@@ -603,7 +603,7 @@ const AppLayout: React.FC = () => {
             <span className="text-[#ff6b6b] font-semibold text-sm uppercase tracking-wider">Our Culture</span>
             <h2 className="text-3xl sm:text-4xl font-bold text-[#1a2332] mt-2 mb-4">What Drives Us</h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
-              At AI HealthTech Solutions Inc., we foster a culture of innovation, integrity, and impact.
+              At EquinoxHealthTech Solutions Inc., we foster a culture of innovation, integrity, and impact.
             </p>
           </div>
 
@@ -974,7 +974,7 @@ const AppLayout: React.FC = () => {
           {/* Bottom Bar */}
           <div className="border-t border-gray-700 pt-8 flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-sm">
-              © 2024 AI HealthTech Solutions Inc. All rights reserved.
+              © 2024 EquinoxHealthTech Solutions Inc. All rights reserved.
             </p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <button className="text-gray-400 hover:text-white text-sm transition-colors">Privacy Policy</button>
