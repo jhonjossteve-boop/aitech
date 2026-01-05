@@ -493,7 +493,7 @@ const Products: React.FC = () => {
                 <span className="text-white font-bold text-lg">AI</span>
               </div>
               <div className="hidden sm:block">
-                <span className="text-white font-bold text-lg">HealthTech</span>
+                <span className="text-white font-bold text-lg">Equinoxhealthtech</span>
                 <span className="text-[#00a8a8] font-light text-lg ml-1">Solutions</span>
               </div>
             </Link>
@@ -1145,12 +1145,12 @@ const Products: React.FC = () => {
                 <span className="text-white font-bold text-lg">AI</span>
               </div>
               <div>
-                <span className="font-bold">HealthTech</span>
+                <span className="font-bold">Equinoxhealthtech</span>
                 <span className="text-[#00a8a8] font-light ml-1">Solutions</span>
               </div>
             </div>
             <p className="text-gray-400 text-sm">
-              © 2024 AI HealthTech Solutions Inc. All rights reserved.
+              © 2025 Equinoxhealthtech Solutions Inc. All rights reserved.
             </p>
           </div>
         </div>
