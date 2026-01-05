@@ -958,15 +958,16 @@ Los Angeles, CA 90022</span>
               <ul className="space-y-3 text-sm text-gray-400">
                 <li className="flex items-center">
                   <MailIcon />
-                  <span className="ml-3">info@equinoxhealthtech.com</span>
+                  <span className="ml-3">sales@equinoxhealthtech.com</span>
                 </li>
                 <li className="flex items-center">
                   <PhoneIcon />
-                  <span className="ml-3">+1 (800) 555-0123</span>
+                  <span className="ml-3">+1 315 244-9286</span>
                 </li>
                 <li className="flex items-center">
                   <LocationIcon />
-                  <span className="ml-3">San Francisco, CA, USA</span>
+                  <span className="ml-3">4336 Dozier St
+Los Angeles, CA 90022</span>
                 </li>
               </ul>
             </div>
