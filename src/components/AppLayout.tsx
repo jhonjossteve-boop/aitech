@@ -976,7 +976,7 @@ Los Angeles, CA 90022</span>
           {/* Bottom Bar */}
           <div className="border-t border-gray-700 pt-8 flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-sm">
-              © 2025 EquinoxHealthTech Solutions Inc. All rights reserved.
+              © 2024 EquinoxHealthTech Solutions Inc. All rights reserved.
             </p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <button className="text-gray-400 hover:text-white text-sm transition-colors">Privacy Policy</button>
